@@ -17,6 +17,5 @@
 ## Tecnologias que eu pretendo estudar:
 
 <div style="inline_block"><br/>
-  <img align= "center" alt="lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
   <img align= "center" alt="linux" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
 </div>
